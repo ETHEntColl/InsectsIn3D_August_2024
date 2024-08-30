@@ -208,16 +208,16 @@ The script `final_check` ensures all project folders have the following files an
 - CamPos.txt
 - ScanInformation.pdf or ParamsText.txt
 - edof
-	- png images
+   - png images
 - redof
-	- jpg images
+   - jpg images
 - Model
-	- MODEL_NAME.files
-	- MODEL_NAME.glb
-	- MODEL_NAME.mtl
-	- MODEL_NAME.obj
-	- MODEL_NAME.png
-	- MODEL_NAME.psx
+   - MODEL_NAME.files
+   - MODEL_NAME.glb
+   - MODEL_NAME.mtl
+   - MODEL_NAME.obj
+   - MODEL_NAME.png
+   - MODEL_NAME.psx
 
 ```
 It also ensures that not too many or too few files exist and allows for some variance. The old folders contain additional files we want to keep. It also makes sure the edof and redof folder contain the same number of images.
