@@ -152,7 +152,7 @@ The `create_preview` project creates three predetermined pictures of the glb mod
 |---|---|---|
 |![top-view](img/top_view.jpeg)|![bottom-view](img/bottom_view.jpeg)|![side-view](img/side_view.jpeg)|
 
-This can be used in combination with [Extract Images](#️-extract-images) to quickly assess the quality of the glb files.
+This can be used in combination with [Extract Images](#️extract-images) to quickly assess the quality of the glb files.
 
 ### Instructions
 
