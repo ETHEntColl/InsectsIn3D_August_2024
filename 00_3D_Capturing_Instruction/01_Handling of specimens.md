@@ -4,7 +4,7 @@
 
 The specimen boxes with name-bearing Types are particularly valuable. Please handle it always with the highest attention.
 
-<img src="iimg/box_full.jpg" height="600"/>
+<img src="img/box_full.jpg" height="600"/>
 
 Specimen box
 
@@ -20,15 +20,15 @@ Opening a specimen box
 ### HANDLING OF A SPECIMEN
 
 <p align="left">
-  <img src="img/Specimen_Stand.jpg" height="200"/>
-  <img src="img/Magnet_head_BIG.jpg" height="200"/>
+  <img src="img/Specimen_Stand.jpg" height="400"/>
+  <img src="img/Magnet_head_BIG.jpg" height="400"/>
 </p>
 
 ### 1 STEP
 
 <p align="left">
-  <img src="img/DSC09563.jpg" height="200"/>
-  <img src="img/DSC09565.jpg" height="200"/>
+  <img src="img/DSC09563.jpg" height="400"/>
+  <img src="img/DSC09565.jpg" height="400"/>
 </p>
 
 1. Put the specimen case next to the adapter stand
@@ -38,8 +38,8 @@ Opening a specimen box
 ### 2 STEP
 
 <p align="left">
-  <img src="img/DSC09566.jpg" height="200"/>
-  <img src="img/DSC09570.jpg" height="200"/>
+  <img src="img/DSC09566.jpg" height="400"/>
+  <img src="img/DSC09570.jpg" height="400"/>
 </p>
 
 1. Push the labels carefully down with the tweezers
