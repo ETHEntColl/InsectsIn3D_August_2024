@@ -1,14 +1,14 @@
 # Handling of specimen
 
-### 5SPECIMEN BOX
+### SPECIMEN BOX
 
 The specimen boxes with name-bearing Types are particularly valuable. Please handle it always with the highest attention.
 
-<img src="img/box_full.jpg" height="600"/>
+<img src="img/box_full.jpg" width="600"/>
 
 Specimen box
 
-<img src="img/DSC09559.jpg" height="500"/>
+<img src="img/DSC09559.jpg" width="600"/>
 
 Opening a specimen box
 
@@ -27,8 +27,8 @@ Opening a specimen box
 ### 1 STEP
 
 <p align="left">
-  <img src="img/DSC09563.jpg" height="250"/>
-  <img src="img/DSC09565.jpg" height="250"/>
+  <img src="img/DSC09563.jpg" width="250"/>
+  <img src="img/DSC09565.jpg" width="250"/>
 </p>
 
 1. Put the specimen case next to the adapter stand
@@ -38,8 +38,8 @@ Opening a specimen box
 ### 2 STEP
 
 <p align="left">
-  <img src="img/DSC09566.jpg" height="250"/>
-  <img src="img/DSC09570.jpg" height="250"/>
+  <img src="img/DSC09566.jpg" width="250"/>
+  <img src="img/DSC09570.jpg" width="250"/>
 </p>
 
 1. Push the labels carefully down with the tweezers
@@ -48,13 +48,13 @@ Opening a specimen box
 
 ### 3 STEP
 
-<img src="img/Magnet_head_02.jpg" height="500"/>
+<img src="img/Magnet_head_02.jpg" width="600"/>
 
 1. Place the specimen on the specimen adapter
 2. The horizontal line of the jig should match the centre of the specimen
 
 ### 4 STEP
 
-<img src="img/insect_in_machine.jpg" height="600"/>
+<img src="img/insect_in_machine.jpg" width="600"/>
 
 Please, visit the following chapter [Disc3D Control](https://www.notion.so/Disc3D-00060677c44241f595e987672b3faca2?pvs=21)
