@@ -8,7 +8,7 @@ The specimen boxes with name-bearing Types are particularly valuable. Please han
 
 Specimen box
 
-![Opening a specimen box](img/DSC09559.jpg)
+<img src="img/DSC09559.jpg" height="200"/>
 
 Opening a specimen box
 
