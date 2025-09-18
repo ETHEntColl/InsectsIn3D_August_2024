@@ -8,7 +8,7 @@ The specimen boxes with name-bearing Types are particularly valuable. Please han
 
 Specimen box
 
-<img src="img/DSC09559.jpg" height="600"/>
+<img src="img/DSC09559.jpg" height="500"/>
 
 Opening a specimen box
 
@@ -48,7 +48,7 @@ Opening a specimen box
 
 ### 3 STEP
 
-<img src="img/Magnet_head_02.jpg" height="600"/>
+<img src="img/Magnet_head_02.jpg" height="500"/>
 
 1. Place the specimen on the specimen adapter
 2. The horizontal line of the jig should match the centre of the specimen
