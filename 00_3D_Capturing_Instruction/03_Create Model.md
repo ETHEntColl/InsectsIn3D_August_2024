@@ -13,6 +13,7 @@ Before you start to process the images created by the ‘disc3D’ scanner make 
 
 ### 1 STEP
 
+<img src="img/01.jpg" width="800"/>
 ![Metashape UI](01.jpg)
 
 Metashape UI
@@ -50,6 +51,7 @@ Coordinate System: mm
 
 ### 4 STEP
 
+<img src="img/DSC09559.jpg" width="800"/>
 ![ScanInformation.pdf](camera_constant_snipping.jpg)
 
 ScanInformation.pdf
@@ -86,6 +88,7 @@ Align Photos context window
 
 ### 6 STEP
 
+<img src="img/DSC09559.jpg" width="800"/>
 ![Metashape UI](07.jpg)
 
 Metashape UI
@@ -191,29 +194,31 @@ Tools / Mesh / Smooth
 
 **Christian: No Smooth**
 
-![02 smooth.jpg](02_smooth.jpg)
-
-![03 smooth.jpg](03_smooth.jpg)
+<p align="left">
+  <img src="img/02_smooth.jpg" height="400"/>
+  <img src="img/03_smo03_smoothoth.jpg" height="400"/>
+</p>
 
 Without smooth 
 
-![04 smooth.jpg](04_smooth.jpg)
+<p align="left">
+  <img src="img/04_smooth.jpg" height="400"/>
+  <img src="img/04_smooth.jpg" height="400"/>
+</p>
 
 With smooth 
 
-![05 smooth.jpg](05_smooth.jpg)
-
-![06 smooth.jpg](06_smooth.jpg)
+<p align="left">
+  <img src="img/05_smooth.jpg" height="400"/>
+  <img src="img/06_smooth.jpg" height="400"/>
+</p>
 
 ### 10 STEP
 
-![Menu bar / Workflow / Build Texture](10.jpg)
-
-Menu bar / Workflow / Build Texture
-
-![Build Texture context menu](11.jpg)
-
-Build Texture context menu
+<p align="left">
+  <img src="img/10.jpg" height="400"/>
+  <img src="img/11.jpg" height="400"/>
+</p>
 
 **Texture type:** Diffuse map
 **Source data:** Images
@@ -223,12 +228,12 @@ Build Texture context menu
 
 ### 11 STEP
 
-![Metashape UI](12.jpg)
+<img src="img/12.jpg" width="800"/>
 
 Metashape UI
 
 ### 12 STEP
 
-![Export model](13_Export.jpg)
+<img src="img/13_Export.jpg" width="400"/>
 
 Export model
