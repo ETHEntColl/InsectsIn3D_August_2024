@@ -27,8 +27,8 @@ Opening a specimen box
 ### 1 STEP
 
 <p align="left">
-  <img src="img/DSC09563.jpg" height="400"/>
-  <img src="img/DSC09565.jpg" height="400"/>
+  <img src="img/DSC09563.jpg" height="300"/>
+  <img src="img/DSC09565.jpg" height="300"/>
 </p>
 
 1. Put the specimen case next to the adapter stand
@@ -38,8 +38,8 @@ Opening a specimen box
 ### 2 STEP
 
 <p align="left">
-  <img src="img/DSC09566.jpg" height="400"/>
-  <img src="img/DSC09570.jpg" height="400"/>
+  <img src="img/DSC09566.jpg" height="300"/>
+  <img src="img/DSC09570.jpg" height="300"/>
 </p>
 
 1. Push the labels carefully down with the tweezers
