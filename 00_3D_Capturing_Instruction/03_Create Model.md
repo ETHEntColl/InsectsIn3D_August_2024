@@ -195,29 +195,29 @@ Tools / Mesh / Smooth
 **Christian: No Smooth**
 
 <p align="left">
-  <img src="img/02_smooth.jpg" height="400"/>
-  <img src="img/03_smo03_smoothoth.jpg" height="400"/>
+  <img src="img/02_smooth.jpg" height="300"/>
+  <img src="img/03_smo03_smoothoth.jpg" height="300"/>
 </p>
 
 Without smooth 
 
 <p align="left">
-  <img src="img/04_smooth.jpg" height="400"/>
-  <img src="img/04_smooth.jpg" height="400"/>
+  <img src="img/04_smooth.jpg" height="300"/>
+  <img src="img/04_smooth.jpg" height="300"/>
 </p>
 
 With smooth 
 
 <p align="left">
-  <img src="img/05_smooth.jpg" height="400"/>
-  <img src="img/06_smooth.jpg" height="400"/>
+  <img src="img/05_smooth.jpg" height="300"/>
+  <img src="img/06_smooth.jpg" height="300"/>
 </p>
 
 ### 10 STEP
 
 <p align="left">
-  <img src="img/10.jpg" height="400"/>
-  <img src="img/11.jpg" height="400"/>
+  <img src="img/10.jpg" height="300"/>
+  <img src="img/11.jpg" height="300"/>
 </p>
 
 **Texture type:** Diffuse map
