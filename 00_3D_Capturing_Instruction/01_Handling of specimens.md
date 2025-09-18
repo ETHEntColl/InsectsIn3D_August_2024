@@ -4,11 +4,11 @@
 
 The specimen boxes with name-bearing Types are particularly valuable. Please handle it always with the highest attention.
 
-![Specimen box](img/box_full.jpg)
+<img src="iimg/box_full.jpg" height="600"/>
 
 Specimen box
 
-<img src="img/DSC09559.jpg" height="200"/>
+<img src="img/DSC09559.jpg" height="600"/>
 
 Opening a specimen box
 
@@ -19,19 +19,21 @@ Opening a specimen box
 
 ### HANDLING OF A SPECIMEN
 
+<img src="img/Specimen_Stand.jpg" height="600"/>
 ![ETHZ Adapter](img/Specimen_Stand.jpg)
 
 ETHZ Adapter
 
-![ETHZ Magnet head](img/Magnet_head_BIG.jpg)
+<img src="img/Magnet_head_BIG.jpg" height="600"/>
 
 ETHZ Magnet head
 
 ### 1 STEP
 
-![DSC09563.JPG](img/DSC09563.jpg)
-
-![DSC09565.JPG](img/DSC09565.jpg)
+<p align="center">
+  <img src="img/DSC09563.jpg" height="200"/>
+  <img src="img/DSC09565.jpg" height="200"/>
+</p>
 
 1. Put the specimen case next to the adapter stand
 2. Take the specimen out of the case and pin it onto the centre of the needle pad
@@ -39,9 +41,10 @@ ETHZ Magnet head
 
 ### 2 STEP
 
-![DSC09566.JPG](img/DSC09566.jpg)
-
-![DSC09570.JPG](img/DSC09570.jpg)
+<p align="center">
+  <img src="img/DSC09566.jpg" height="200"/>
+  <img src="img/DSC09570.jpg" height="200"/>
+</p>
 
 1. Push the labels carefully down with the tweezers
 2. Take out the needled specimen from the label and pin it on the needle pad
@@ -49,13 +52,13 @@ ETHZ Magnet head
 
 ### 3 STEP
 
-![Magnet head 02.jpg](img/Magnet_head_02.jpg)
+<img src="img/Magnet_head_02.jpg" height="600"/>
 
 1. Place the specimen on the specimen adapter
 2. The horizontal line of the jig should match the centre of the specimen
 
 ### 4 STEP
 
-![insect in machine.jpg](img/insect_in_machine.jpg)
+<img src="img/insect_in_machine.jpg" height="600"/>
 
 Please, visit the following chapter [Disc3D Control](https://www.notion.so/Disc3D-00060677c44241f595e987672b3faca2?pvs=21)
